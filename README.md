@@ -10,7 +10,14 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+The code should run with no issues using following libraries:
+
+- nltk 3.3.0
+- numpy 1.15.2
+- pandas 0.23.4
+- scikit-learn 0.20.0
+- sqlalchemy 1.2.12
+
 
 ## Project Motivation<a name="motivation"></a>
 
